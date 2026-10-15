@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@layer base {
+  html {
+    /* 目前只做淺色；深色模式留到 Phase 3 */
+    color-scheme: light;
+  }
+}
